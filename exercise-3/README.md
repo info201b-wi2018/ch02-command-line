@@ -5,7 +5,7 @@ This exercise is an introduction to navigating file paths.
 ```bash
 git clone https://github.com/info201b-wi2018/ch02-command-line.git
 ```
-2. Using git, make a copy of the image on your desktop
+2. Using `cp`, make a copy of the image onto your desktop
 ```bash
 cp ch02-command-line/exercise-3/Images/Cat.jpg ~/Desktop
 ```
