@@ -19,7 +19,11 @@ cd quick-exercise
 touch test-file.r
 
 # Open "test-file.r" (from the terminal) and edit it
+# note: you can use the generic opening commands, or the name of the
+# program you want to open it with
 open test-file.r
+# or alternatively:
+# rstudio test-file.r
 
 # Edit in a text-editor of your choice
 
