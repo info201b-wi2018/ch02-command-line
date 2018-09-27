@@ -16,6 +16,8 @@ to clone or download this repository):
 # Create a file called "test-file.r" using the `touch` command
 
 # Open "test-file.r" (from the terminal) and edit it
+# note: you can use the generic opening commands, or the name of the
+# program you want to open it with
 
 # View the contents of the file in your terminal
 
